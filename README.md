@@ -26,9 +26,6 @@ Scroll-Web-App/
 │ └── ... # Image assets
 └── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## 🎨 Features
